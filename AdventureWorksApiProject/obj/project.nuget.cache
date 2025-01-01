@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "nMnhBen2oCTOTU7Fuhi1VEZDtIawGVZNw0Q3i/Jzt28Es2cSX1uc5J+fPKVLKQ6L6Ctw2PYIFQmfug1ZmPY74A==",
+  "success": true,
+  "projectFilePath": "B:\\Desenvolviemento\\Github\\dotnet-adventureworks2022-webapi-project\\AdventureWorksApiProject\\AdventureWorksApiProject.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\default.desktop\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\default.desktop\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\default.desktop\\.nuget\\packages\\swashbuckle.aspnetcore\\6.5.0\\swashbuckle.aspnetcore.6.5.0.nupkg.sha512",
+    "C:\\Users\\default.desktop\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.5.0\\swashbuckle.aspnetcore.swagger.6.5.0.nupkg.sha512",
+    "C:\\Users\\default.desktop\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.5.0\\swashbuckle.aspnetcore.swaggergen.6.5.0.nupkg.sha512",
+    "C:\\Users\\default.desktop\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.5.0\\swashbuckle.aspnetcore.swaggerui.6.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
